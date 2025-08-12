@@ -1,4 +1,4 @@
-**simple PHP file manager**
+## simple PHP file manager
 
 a minimal php file manager with password login, basic file and folder operations, 
 and a dark green theme. works with php 5.6+ and requires no dependencies.
